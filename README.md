@@ -9,6 +9,9 @@
 </h1>
 </div>
 
+config files for helix text editor, made for the nightly release built from source. Error may occur when using with stable release
+
+
 # Features
 
 - Vim-like modal editing
