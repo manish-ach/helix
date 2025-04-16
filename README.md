@@ -20,6 +20,8 @@ config files for helix text editor, made for the nightly release built from sour
 - Smart, incremental syntax highlighting and code editing via tree-sitter
 
 
+# Screenshots
+
 ![image](https://github.com/user-attachments/assets/ce5861f7-7acd-4193-acac-5a04f03a22bb)
 
 ![image](https://github.com/user-attachments/assets/6fe5e1aa-e6a4-49f8-a950-342ec659fdcd)
